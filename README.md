@@ -20,6 +20,7 @@ A social hub where users can connect, share experiences, and discuss various top
 Wellness made fun! Build lasting habits with gamified features:
 
 1)Global Rankings: See how your meditation or hydration streaks compare to users worldwide (e.g., "You are ahead of 80% of users!").
+
 2)Virtual Growth: Hydrate a virtual plant every time you drink water to visually track your progress.
 <br>
 
